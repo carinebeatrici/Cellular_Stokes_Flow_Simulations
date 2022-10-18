@@ -11,8 +11,8 @@ The results of the simulation are saved on data folder in file posicoes.dat.
 This output file presents the following format:
 
 snapshot_time  number_of_particles
-x[0] y[0] vx[0] vy[0] box[0] unique_id[0]
-x[1] y[1] vx[1] vy[1] box[1] unique_id[1]
-...
+x[0] y[0] vx[0] vy[0] box[0] unique_id[0] <br>
+x[1] y[1] vx[1] vy[1] box[1] unique_id[1] <br>
+... <br>
 x[number_of_particles-1] y[number_of_particles-1] vx[number_of_particles-1] vy[number_of_particles-1] box[number_of_particles-1] unique_id[number_of_particles-1]
 
