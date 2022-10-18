@@ -14,9 +14,9 @@ snapshot_time  number_of_particles <br>
 x[0] y[0] vx[0] vy[0] box[0] unique_id[0] <br>
 x[1] y[1] vx[1] vy[1] box[1] unique_id[1] <br>
 ... <br>
-x[number_of_particles-1] y[number_of_particles-1] vx[number_of_particles-1] vy[number_of_particles-1] box[number_of_particles-1] unique_id[number_of_particles-1]
+x[number_of_particles-1] y[number_of_particles-1] vx[number_of_particles-1] vy[number_of_particles-1] box[number_of_particles-1] unique_id[number_of_particles-1] <br>
 snapshot_time  number_of_particles <br>
 x[0] y[0] vx[0] vy[0] box[0] unique_id[0] <br>
 x[1] y[1] vx[1] vy[1] box[1] unique_id[1] <br>
 ... <br>
-x[number_of_particles-1] y[number_of_particles-1] vx[number_of_particles-1] vy[number_of_particles-1] box[number_of_particles-1] unique_id[number_of_particles-1]
+x[number_of_particles-1] y[number_of_particles-1] vx[number_of_particles-1] vy[number_of_particles-1] box[number_of_particles-1] unique_id[number_of_particles-1] <br>
