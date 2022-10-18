@@ -2,21 +2,14 @@ boundary                = stokes
 types                   = 14
 dimensions              = 2
 initial                 = hex_center
-#initial                 = left
 kill                    = right_edge_or_p0
-#kill                    = right
-#cells                   = 1354
-#cells                   = 1560
-
 
 max_cells               = 16384
 particles_per_cell      = 20
-#division                = 200
 
-# densidade
 cells                   = 10000
 initial_distance        = 2.9
-division                = 50
+division                = 30
 
 non_division            = 10
 steps                   = 400000
@@ -46,16 +39,16 @@ radial_beta_medium      = 1.0
 radial_eq               = 1
 kapa_medium             = 10
 
-#alfa
+#alignment
 auto_alpha              = 14.0
 inter_alpha             = 00.0
 
 speed                   = 0.007
 kapa                    = 10
 inter_eq                = 1.1
-radial_beta             = 1.0
 
-#beta
+#force
+radial_beta             = 1.0
 inter_beta              = 1.0
 
 tangent_beta            = 1.0
