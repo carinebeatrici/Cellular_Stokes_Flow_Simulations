@@ -10,7 +10,7 @@ The simulation configuration file is the param.h
 The results of the simulation are saved on data folder in file posicoes.dat.
 This output file presents the following format:
 
-snapshot_time  number_of_particles
+snapshot_time  number_of_particles <br>
 x[0] y[0] vx[0] vy[0] box[0] unique_id[0] <br>
 x[1] y[1] vx[1] vy[1] box[1] unique_id[1] <br>
 ... <br>
