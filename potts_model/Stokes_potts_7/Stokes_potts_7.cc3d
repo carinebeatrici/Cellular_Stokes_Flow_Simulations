@@ -1,0 +1,4 @@
+<Simulation version="3.6.2">
+   <PythonScript Type="PythonScript">Simulation/Stokes_potts_7.py</PythonScript>
+   <Resource Type="Python">Simulation/Stokes_potts_7Steppables.py</Resource>
+</Simulation>
