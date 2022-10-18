@@ -53,4 +53,4 @@ inter_beta              = 1.0
 
 tangent_beta            = 1.0
 tangent_beta_medium     = 1.0
-#initial_velocity_angle  = 0.0 #random
+#initial_velocity_angle  = 0.0 
